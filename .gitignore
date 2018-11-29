@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+les
+forumdb
+/static
+.DS_Store
