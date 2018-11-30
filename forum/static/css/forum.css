@@ -1,7 +1,4 @@
-h1 a {
-    color: #5C35E8;
-    font-family: 'Lobster';
-}
+
 
 .page-header {
     background-color: #5C35E8;
@@ -36,7 +33,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #ECF70F;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
